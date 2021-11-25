@@ -9,7 +9,7 @@ declare module 'styled-components' {
 
 const GlobalStyle = createGlobalStyle`
   * {
-    font-family: 'Press Start 2P', cursive;
+    font-family: 'VT323', monospace;
   }
   body {
     background-color: ${({ theme }) => theme.colors.background};

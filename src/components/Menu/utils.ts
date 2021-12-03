@@ -26,3 +26,17 @@ export const getActiveSubMenuItem = ({ pathname, menuItem }: { pathname: string;
 
   return mostSpecificMatch
 }
+
+export const getPriceDmgkVsUsd = async (): Promise<any> => {
+  const url = 'https://api.coingecko.com/api/v3/simple/price?ids=darkmagick&vs_currencies=usd'
+  try {
+    const result = await fetch(url, {headers: {
+      'Content-Type': 'application/json'
+    }});
+    return result.json()
+  } catch (error) {
+    console.log('usePriceDmgkVsUsd ==>', error);
+  }
+
+  return undefined;
+}

@@ -3240,9 +3240,9 @@
     source-map "^0.7.3"
 
 "@popperjs/core@^2.9.2":
-  version "2.10.2"
-  resolved "https://registry.yarnpkg.com/@popperjs/core/-/core-2.10.2.tgz#0798c03351f0dea1a5a4cabddf26a55a7cbee590"
-  integrity sha512-IXf3XA7+XyN7CP9gGh/XB0UxVMlvARGEgGXLubFICsUMGz6Q+DU+i4gGlpOxTjKvXjkJDJC8YdqdKkDj9qZHEQ==
+  version "2.11.0"
+  resolved "https://registry.yarnpkg.com/@popperjs/core/-/core-2.11.0.tgz#6734f8ebc106a0860dff7f92bf90df193f0935d7"
+  integrity sha512-zrsUxjLOKAzdewIDRWy9nsV1GQsKBCWaGwsZQlCgr6/q+vjyZhFgqedLfFBuI9anTPEUT4APq9Mu0SZBTzIcGQ==
 
 "@portis/web3-provider-engine@1.1.2":
   version "1.1.2"
@@ -3282,10 +3282,10 @@
     penpal "3.0.7"
     pocket-js-core "0.0.3"
 
-"@prodvdjin/dmgk-uikit@^0.0.5":
-  version "0.0.5"
-  resolved "https://registry.yarnpkg.com/@prodvdjin/dmgk-uikit/-/dmgk-uikit-0.0.5.tgz#5802d273144e9a3aeceb7420e6a1c47f30b10a7b"
-  integrity sha512-+r6MTl8PjNSb1vHlixp/0mn6u6MeCxlHm0TBtyB0+qXe3gU2jh9tYje2gDISJeeZ22FiwdAEP8UaPivMNMc1cA==
+"@prodvdjin/dmgk-uikit@^0.0.8":
+  version "0.0.8"
+  resolved "https://registry.yarnpkg.com/@prodvdjin/dmgk-uikit/-/dmgk-uikit-0.0.8.tgz#e340d0e1df0dfc1601362d72610257bc4fde0452"
+  integrity sha512-xoWsz1eB8itpwrzanNWQKVBHkV7RS6frpjhDCk5TgaFoXJxyyBVso5JvLfh54YBQgBFV28YJ+66VItkDZdJdww==
   dependencies:
     "@popperjs/core" "^2.9.2"
     "@types/lodash" "^4.14.168"
@@ -4604,9 +4604,9 @@
     "@types/node" "*"
 
 "@types/lodash@^4.14.168":
-  version "4.14.176"
-  resolved "https://registry.yarnpkg.com/@types/lodash/-/lodash-4.14.176.tgz#641150fc1cda36fbfa329de603bbb175d7ee20c0"
-  integrity sha512-xZmuPTa3rlZoIbtDUyJKZQimJV3bxCmzMIO2c9Pz9afyDro6kr7R79GwcB6mRhuoPmV2p1Vb66WOJH7F886WKQ==
+  version "4.14.177"
+  resolved "https://registry.yarnpkg.com/@types/lodash/-/lodash-4.14.177.tgz#f70c0d19c30fab101cad46b52be60363c43c4578"
+  integrity sha512-0fDwydE2clKe9MNfvXHBHF9WEahRuj+msTuQqOmAApNORFvhMYZKNGGJdCzuhheVjMps/ti0Ak/iJPACMaevvw==
 
 "@types/long@^4.0.0", "@types/long@^4.0.1":
   version "4.0.1"
@@ -4774,9 +4774,9 @@
     csstype "^3.0.2"
 
 "@types/styled-system@^5.1.10":
-  version "5.1.10"
-  resolved "https://registry.yarnpkg.com/@types/styled-system/-/styled-system-5.1.10.tgz#dcf5690dd837ca49b8de1f23cb99d510c7f4ecb3"
-  integrity sha512-OmVjC9OzyUckAgdavJBc+t5oCJrNXTlzWl9vo2x47leqpX1REq2qJC49SEtzbu1OnWSzcD68Uq3Aj8TeX+Kvtg==
+  version "5.1.13"
+  resolved "https://registry.yarnpkg.com/@types/styled-system/-/styled-system-5.1.13.tgz#9ad667534d3bd75720dd7778c94c783449cb5c14"
+  integrity sha512-RtpV6zXnnMQNcxKjC06BUM4MUER5o9uZ6b7xAc2OzhWxSsmQ3jXyW8ohuXdEJRKypEe0EqAzbSGx2Im0NXfdKA==
   dependencies:
     csstype "^3.0.2"
 

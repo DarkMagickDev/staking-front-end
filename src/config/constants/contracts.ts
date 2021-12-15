@@ -28,3 +28,7 @@ export default {
     97: '',
   },
 }
+export enum QuoteToken {
+   ...
+  'DMGK' = 'DMGK', 
+}

@@ -29,7 +29,6 @@ export default {
   },
 }
 export enum QuoteToken {
-  'DMGK' = 'DMGK', 
    dmgk: { 
     56: '0x6F89660fEf8B6a03a41E5F3d0306645BE2469eFE',
     97: '',

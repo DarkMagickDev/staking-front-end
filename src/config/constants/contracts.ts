@@ -29,6 +29,5 @@ export default {
   },
 }
 export enum QuoteToken {
-   ...
   'DMGK' = 'DMGK', 
 }

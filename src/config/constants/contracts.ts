@@ -27,11 +27,11 @@ export default {
     56: '0xe9e7cea3dedca5984780bafc599bd69add087d56',
     97: '',
   },
-}
+},
+  
 export enum QuoteToken {
    dmgk: { 
     56: '0x6F89660fEf8B6a03a41E5F3d0306645BE2469eFE',
     97: '',
   },
-}
 }

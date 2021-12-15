@@ -53,7 +53,6 @@ const farms: FarmConfig[] = [
     {
     pid: 3,
     risk: 3,
-    lpSymbol: 'DMGK',
     isTokenOnly: true,
     tokenSymbol: 'DMGK',
     tokenAddresses: {
